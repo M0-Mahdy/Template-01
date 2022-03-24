@@ -385,8 +385,9 @@ i {
     font-size: 18px;
     text-align: center;
 }
-span {
+span a {
     color: var(--main-color);
     font-weight: bold;
+    text-decoration: none;
 }
 /* End Footer */
